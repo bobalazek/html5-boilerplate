@@ -1,0 +1,21 @@
+{
+    "author": "Borut Balazek <bobalazek124@gmail.com>",
+    "name": "bobalazek-html5-bootstrap-boilerplate",
+    "version": "0.1",
+    "dependencies": {
+        "animate.css": "~3.2",
+        "bootstrap": "~3.3",
+        "conditionizr": "~4.3",
+        "detectizr": "~2.0",
+        "fitvids": "~1.1",
+        "fontawesome": "~4.3",
+        "jquery": "~2.1",
+        "jquery-migrate": "~1.2",
+        "modernizr": "~2.8",
+        "respond": "~1.4"
+    },
+    "resolutions": {
+        "jquery": "~2.1",
+        "modernizr": "~2.8"
+    }
+}
