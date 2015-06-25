@@ -1,2 +1,2 @@
 # HTML5 + Bootstrap Boilerplate
-Just a personal boilerplate / starting point for HTML5 + Bootstrap Projects.
+Just a personal boilerplate / starting point for HTML5 + Bootstrap trojects.
